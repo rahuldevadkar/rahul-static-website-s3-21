@@ -16,7 +16,7 @@ This project demonstrates static website hosting using Amazon S3.
 ## Project Screenshots
 
 ### S3 Bucket
-![S3 Bucket](screenshots/s3-bucket.png)
+![S3 Bucket](screenshots/S3-bucket.png)
 
 ### Static Website Hosting
 ![Static Hosting](screenshots/static-hosting.png)

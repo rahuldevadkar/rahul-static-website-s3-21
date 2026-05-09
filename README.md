@@ -24,5 +24,5 @@ This project demonstrates static website hosting using Amazon S3.
 ### Website Output
 ![Website Output](screenshots/website-output.png)
 
-##Author
-Rahul
+## Author
+Rahul Devadkar
